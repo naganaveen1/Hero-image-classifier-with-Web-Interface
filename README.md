@@ -88,6 +88,10 @@ project/
 
 ![App Screenshot](demo.png)
 
+
+https://github.com/user-attachments/assets/6a0bf54b-1a10-4532-ab0f-bbb3be97437d
+
+
 ---
 
 ## 🚀 Deployment
