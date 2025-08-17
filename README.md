@@ -87,6 +87,7 @@ project/
 ## 📸 Demo
 
 The recording looks slightly blurry — maybe next time it could be adjusted for better clarity.
+
 https://github.com/user-attachments/assets/6a0bf54b-1a10-4532-ab0f-bbb3be97437d
 
 
