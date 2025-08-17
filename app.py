@@ -52,4 +52,7 @@ def predict():
     return jsonify({"prediction": class_names[predicted_idx]})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # This is only for local debugging
+    app.run(host="0.0.0.0", port=5000, debug=True)
+
+
